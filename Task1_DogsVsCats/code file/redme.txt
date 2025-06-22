@@ -1,0 +1,2 @@
+
+if the code is not run go to the word file step by step guide and perform according to it in the terminal window
